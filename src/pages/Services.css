@@ -257,6 +257,7 @@
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  color: #000 !important;
 }
 
 .cta-buttons {
@@ -348,4 +349,13 @@
   .technologies-section h2 {
     font-size: 2rem;
   }
+}
+
+.services-hero,
+.services-hero h1,
+.services-hero p,
+.services-cta,
+.services-cta h2,
+.services-cta p {
+  color: #000 !important;
 }

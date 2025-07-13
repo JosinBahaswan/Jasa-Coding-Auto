@@ -429,3 +429,12 @@
     font-size: 1rem;
   }
 }
+
+.testimonials-hero,
+.testimonials-hero h1,
+.testimonials-hero p,
+.featured-testimonial,
+.featured-testimonial h2,
+.featured-testimonial p {
+  color: #000 !important;
+}
