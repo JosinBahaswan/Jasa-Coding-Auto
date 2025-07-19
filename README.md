@@ -1,6 +1,6 @@
-# Joki Coding - Website Profesional
+# jasa Coding - Website Profesional
 
-Website modern dan responsif untuk layanan joki coding profesional. Dibuat dengan React dan Vite untuk performa yang optimal.
+Website modern dan responsif untuk layanan jasa coding profesional. Dibuat dengan React dan Vite untuk performa yang optimal.
 
 ## 🚀 Fitur
 
@@ -177,13 +177,13 @@ Edit file `src/index.css` dan ubah CSS custom properties:
 
 Untuk pertanyaan atau dukungan:
 
-- Email: info@jokicoding.com
+- Email: info@jasacoding.com
 - Phone: +62 21 1234 5678
 - WhatsApp: +62 812 3456 7890
 
 ## 📄 License
 
-Project ini dibuat untuk Joki Coding. Semua hak cipta dilindungi.
+Project ini dibuat untuk jasa Coding. Semua hak cipta dilindungi.
 
 ---
 

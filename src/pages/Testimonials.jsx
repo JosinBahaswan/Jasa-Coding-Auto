@@ -14,7 +14,7 @@ const Testimonials = () => {
       service: "website",
       image: "👨‍💼",
       review:
-        "Joki Coding sangat profesional dalam mengerjakan website perusahaan kami. Hasilnya sesuai ekspektasi dan selesai tepat waktu. Sangat direkomendasikan!",
+        "Jasa Coding sangat profesional dalam mengerjakan website perusahaan kami. Hasilnya sesuai ekspektasi dan selesai tepat waktu. Sangat direkomendasikan!",
       project: "Website E-commerce",
     },
     {
@@ -26,7 +26,7 @@ const Testimonials = () => {
       service: "mobile",
       image: "👩‍💻",
       review:
-        "Aplikasi mobile yang dibuat sangat user-friendly dan performanya bagus. Tim Joki Coding sangat responsif dan komunikatif selama proses development.",
+        "Aplikasi mobile yang dibuat sangat user-friendly dan performanya bagus. Tim Jasa Coding sangat responsif dan komunikatif selama proses development.",
       project: "Mobile App React Native",
     },
     {
@@ -132,7 +132,7 @@ const Testimonials = () => {
       <section className="testimonials-hero">
         <div className="container">
           <h1>Apa Kata Klien Kami</h1>
-          <p>Testimoni dari klien yang telah mempercayai layanan Joki Coding</p>
+          <p>Testimoni dari klien yang telah mempercayai layanan Jasa Coding</p>
         </div>
       </section>
 
@@ -218,11 +218,11 @@ const Testimonials = () => {
           <div className="featured-content">
             <div className="featured-quote">
               <h2>
-                "Joki Coding telah membantu kami mengubah ide menjadi kenyataan
+                "Jasa Coding telah membantu kami mengubah ide menjadi kenyataan
                 dengan hasil yang luar biasa."
               </h2>
               <p>
-                Tim Joki Coding tidak hanya memberikan solusi teknis yang tepat,
+                Tim Jasa Coding tidak hanya memberikan solusi teknis yang tepat,
                 tetapi juga memahami kebutuhan bisnis kami. Hasil akhirnya
                 melebihi ekspektasi dan membantu bisnis kami berkembang pesat.
               </p>

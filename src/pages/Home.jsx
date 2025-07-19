@@ -8,7 +8,7 @@ const Home = () => {
         <div className="hero-container">
           <div className="hero-content">
             <h1 className="hero-title">
-              Joki Coding
+              Jasa Coding
               <span className="highlight"> Professional</span>
             </h1>
             <p className="hero-subtitle">
@@ -23,7 +23,7 @@ const Home = () => {
           </div>
           <div className="hero-image">
             <div className="code-animation">
-              <div className="code-line">const jokiCoding = {`{`}</div>
+              <div className="code-line">const jasacoding = {`{`}</div>
               <div className="code-line"> service: "Professional",</div>
               <div className="code-line"> quality: "Premium",</div>
               <div className="code-line"> delivery: "Fast"</div>

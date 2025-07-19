@@ -25,7 +25,7 @@ const Navbar = ({ currentPage, setCurrentPage }) => {
     <nav className="navbar">
       <div className="nav-container">
         <div className="nav-logo">
-          <h2>Joki Coding</h2>
+          <h2>Jasa Coding</h2>
         </div>
 
         <div className={`nav-menu ${isMenuOpen ? "active" : ""}`}>

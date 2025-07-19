@@ -159,8 +159,8 @@ const Contact = () => {
                   <div className="info-icon">📧</div>
                   <div className="info-content">
                     <h3>Email</h3>
-                    <p>info@jokicoding.com</p>
-                    <p>support@jokicoding.com</p>
+                    <p>info@jasacoding.com</p>
+                    <p>support@jasacoding.com</p>
                   </div>
                 </div>
 
@@ -216,7 +216,7 @@ const Contact = () => {
           <div className="map-container">
             <div className="map-placeholder">
               <div className="map-content">
-                <h3>📍 Joki Coding Office</h3>
+                <h3>📍 Jasa Coding Office</h3>
                 <p>Jl. Sudirman No. 123, Jakarta Pusat</p>
                 <p>Gedung Menara Sudirman Lt. 15</p>
                 <button className="btn-directions">
